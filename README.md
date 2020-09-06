@@ -4,7 +4,7 @@
 
 Landing page desenvolvida para colocar em prática os estudos sobre ReactJS
 
-Link do projeto: 
+Link do projeto: https://landing-page-reactjs.vercel.app/
 
 ## Para começar :arrow_forward:
 
